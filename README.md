@@ -12,7 +12,7 @@ Please read [Service Agreement](ServiceAgreement.md). By downloading and install
 
 ## Life cycle
 
-Check our timetable that Adacta has to offer in Support Product Life cycle. Our goal is to maintain regulatory features up to date.
+Check our timetable that Adacta has to offer in [Support Product Life cycle](SupportProductLifeCycle.md). Our goal is to maintain regulatory features up to date.
 
 ## Discussion Site
 
@@ -24,7 +24,7 @@ We are providing basic [knowledge database](https://github.com/AdriaticOrg/app/i
 
 ## Roadmap
 
-In first place our goal is to achieve hi quality and then richness of functionalities. Please check out product Roadmap for next couple of years.
+In first place our goal is to achieve hi quality of functionalities. Please check out product [Roadmap](Roadmap.md).
 
 ## Partner and Customer Contact
 
