@@ -4,6 +4,8 @@ Adriatic localization covers translation of basic software interface and message
 
 ## Features
 
+Features are currently available as software design document draft on [sdd repository](https://github.com/AdriaticOrg/sdd).
+
 ## Service Level Agreement
 
 Please read [Service Agreement](ServiceAgreement.md). By downloading and installing app you agree to terms and conditions that are set in Service Agreement. 
@@ -14,11 +16,11 @@ Check our timetable that Adacta has to offer in Support Product Life cycle. Our 
 
 ## Discussion Site
 
-If you have new idea, suggestion or topic to discuss please post issue to [github](issues).
+If you have new idea, suggestion or topic to discuss please post issue to [github](https://github.com/AdriaticOrg/app/issues).
 
 ## Knowledge Database
 
-We are providing basic knowledge database for most common questions regarding Microsoft Dynamics Business Central and localized features.  
+We are providing basic [knowledge database](https://github.com/AdriaticOrg/app/issues) for most common questions regarding Microsoft Dynamics Business Central and localized features.  
 
 ## Roadmap
 
