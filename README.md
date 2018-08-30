@@ -1,6 +1,10 @@
 # Adriatic Localization
 
-Adriatic localization covers translation of basic software interface and messages to another local language and adaptation of regulatory features required by local authorities. 
+Adriatic localization covers translation of basic software interface and messages to another local language and adaptation of regulatory features required by local authorities.
+
+## Registration
+
+[Registration notes](Registration.md).
 
 ## Features
 
