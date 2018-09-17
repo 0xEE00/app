@@ -39,4 +39,4 @@ Country|Company ​Name|​Phone|​E-mail
 Slovenia|Business Solutions|+386 01 1233 22 11|support@bs.si
 Croatia|Adacta|+385 01 132 12 45|support@adacta.hr
 Serbia|NPS|+381 01 132 12 45|support@nps.rs
-Escalation|GoPro|+381 01 132 12 45|support@gopro.rs
+Escalation|GoPro|+381 11 31 93 069|support@gopro.rs
