@@ -36,7 +36,7 @@ In first place our goal is to achieve hi quality of functionalities. Please chec
 
 Country|Company ​Name|​Phone|​E-mail
 -------|------------|-----|------
-Slovenia|Business Solutions|+386 01 1233 22 11|support@bs.si
+Slovenia|Business Solutions|+386 5 338 41 00|support@bs.si
 Croatia|Adacta|+385 01 132 12 45|support@adacta.hr
-Serbia|NPS|+381 01 132 12 45|support@nps.rs
+Serbia|NPS|+381 11 319 37 48|servicedesk@nps.rs
 Escalation|GoPro|+381 11 31 93 069|support@gopro.rs
