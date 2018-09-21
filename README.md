@@ -1,6 +1,14 @@
 # Adriatic Localization
 
-Adriatic localization covers translation of basic software interface and messages to another local language and adaptation of regulatory features required by local authorities.
+Adriatic localization is fully compliant with local laws and regulations for Slovenia, Croatia and Serbia and includes:
+
+- Translation of Business Central into local languages.
+
+- Compliance with local laws and regulations.
+
+- Basic and extended functionality sets.
+
+- Country-specific reports.
 
 ## Registration
 
@@ -9,6 +17,7 @@ Adriatic localization covers translation of basic software interface and message
 ## Features
 
 Features are currently available as software design document draft on [sdd repository](https://github.com/AdriaticOrg/sdd).
+User manuals for all features are available on [help](https://github.com/AdriaticOrg/help).
 
 ## Service Level Agreement
 
