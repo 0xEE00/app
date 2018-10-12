@@ -24,6 +24,10 @@ User manuals for all features are available on [help](https://github.com/Adriati
 
 Please read [Service Agreement](ServiceAgreement.md). By downloading and installing app you agree to terms and conditions that are set in Service Agreement. 
 
+## Privacy Policy
+
+Please read [Privacy Policy](PrivacyPolicy.md.)
+
 ## Life cycle
 
 Check our timetable that Adacta has to offer in [Support Product Life cycle](SupportProductLifeCycle.md). Our goal is to maintain regulatory features up to date.
