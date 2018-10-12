@@ -26,7 +26,7 @@ Please read [Service Agreement](ServiceAgreement.md). By downloading and install
 
 ## Privacy Policy
 
-Please read [Privacy Policy](PrivacyPolicy.md.).
+Please read [Privacy Policy](PrivacyPolicy.md).
 
 ## Life cycle
 
