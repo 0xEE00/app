@@ -1,10 +1,10 @@
 # General Terms and Conditions
 
-# Adacta d.o.o., Ljubljana
+## Adacta d.o.o., Ljubljana
 © Adacta d.o.o., Ljubljana
 General Terms and Conditions of Adacta d.o.o., Ljubljana
 
-## 1. Scope
+### 1. Scope
 
 The following General Terms and Conditions apply to all deliveries and services rendered by ADACTA programska oprema d.o.o. as the service provider.
 By signing a contract or by accepting these General Terms and Conditions without any objections, and, in the absence of a written contract, by accepting
@@ -14,14 +14,14 @@ unless otherwise agreed on between the parties. Any amendments or ancillary agre
 respective individual transaction. Should any of the provisions contained herein become invalid, this shall have no effect whatsoever on their fundamental
 legal validity. In such cases, the contracting parties shall conclude an agreement that will follow the meaning of the invalid provision as closely as possible.
 
-## 2. Quotations and Contract Conclusion
+### 2. Quotations and Contract Conclusion
 
 All contracts, purchase orders and agreements are legally binding only if signed by the service provider’s legal representative or by a person with written
 authorisation from him/her and is only binding to the relevant specified extent. Quotations are generally changeable and do not bind the service provider,
 unless the quotation states that it is binding. Associates of the service provider cannot make statements that deviate from these conditions, unless they
 have a written authorisation of the service provider’s legal representative.
 
-## 3. The Service Provider’s Services
+### 3. The Service Provider’s Services
 
 The service provider provides the following services:
 
@@ -44,7 +44,7 @@ h. software maintenance (eliminating delays, upgrading, assistance),
 i. other IT and business consulting services
 
 
-## 4. Terms of Reference
+### 4. Terms of Reference
 
 As a rule, the basis for a purchase order is the Terms of Reference drawn up by the service provider against payment based on documents acquired from
 the client. The client must verify the correctness and completeness of the Terms of Reference and confirm them. Any subsequent requests for changes
@@ -60,7 +60,7 @@ provider points out to the client that running the software in accordance with i
 hardware and system software will lead to the same results when using this software on the same hardware and with the same set of data as in the test
 environment in accordance with current good practice.
 
-## 5. Standard Software
+### 5. Standard Software
 
 With standard software, the client acquires the right to use it for its business needs in line with the provisions of the relevant standard software developer.
 The service provider states that there are no third-party rights that are in conflict with the transfer of the right to use the software for the client’s business
@@ -88,7 +88,7 @@ Adacta d.o.o., Ljubljana
 © Adacta d.o.o., Ljubljana 2
 
 
-## 6. Project Management
+### 6. Project Management
 
 Project organisation in line with the size and complexity of the set tasks as well as appropriate project management are two obligatory preconditions for
 successfully deploying an information system. The extent and content of project management services provided by a relevant service provider are
@@ -169,7 +169,7 @@ The client’s and service provider’s project managers shall determine the exa
 delivery will be carried out. A special software maintenance contract shall be concluded in relation to software maintenance and the extent of related
 services that the service provider must carry out.
 
-## 7. Prices, Taxes and Fees
+### 7. Prices, Taxes and Fees
 
 All prices are in EUR and without VAT and apply only to the individual order unless stated otherwise. The program medium costs (e.g. CDs), printed
 material for training, etc. as well as any fees related to the contract shall be accounted for separately.
@@ -197,7 +197,7 @@ c. 150% for work on holidays.
 If two of the above coincide, the item with the highest extra cost will apply. In the case of night work on Sundays or holidays, the night work item applies
 in addition to the items for work on Sundays or holidays
 
-## 8. Deadlines and Right of Withdrawal
+### 8. Deadlines and Right of Withdrawal
 
 The service provider shall strive to observe the agreed deadlines for implementation to the fullest extent possible. The set deadlines for implementation
 can be respected only if the client fully carries out all the necessary work, provides documentation, confirms any received functional specifications and
@@ -209,13 +209,13 @@ provider, the client may withdraw from the relevant order by registered letter i
 the deadline has been duly extended by at least 14 days. Withdrawing from any partial deliveries and services that have already been carried out is not
 possible.
 
-## 9. Payment
+### 9. Payment
 
 The service provider will charge for the software licence in accordance with the quotation. Invoices for services will be issued once per month. For orders
 that include multiple units or software modules, the service provider may perform partial deliveries or issue partial invoices. In the absence of a specific agreement, invoices issued by the service provider as well as VAT must be paid within 14 days of receipt of the invoice at the latest, without any deductions or excluded costs. For partial invoices, the payment terms stipulated for the total purchase order shall apply by analogy. Compliance with the agreed payment deadlines is an essential condition for the service provider to carry out deliveries or complete contracts. In the event of failure to observe the agreed payment deadlines, the service provider may, within one week after a written notification, stop any ongoing work and withdraw from the contract.
 The client shall bear all costs associated with it along with the loss of profit. For all invoices that are not issued in EUR, if the exchange rate changes by more than 3% from the invoice date to the date of payment of the invoice, the service provider shall be eligible to compensation for the difference. The service provider shall issue a new invoice for the difference created due to an exchange rate difference. If the client defaults, a contractual default interest shall be agreed in accordance with the statutory interest for late payment. If the client fails to comply with the terms of payment or if the service provider has knowledge of circumstances which it finds to be detrimental to the creditworthiness of the client, the service provider may require advance payment for future deliveries. Payments are effected only through direct payments to the service provider. If the service provider has several receivables due from the client, the client's payments shall cover the oldest receivable first. Any expenses are always covered first, followed by interest and finally the principal claim. The client may compensate its obligations towards the service provider only using its recognised and finally determined claims due to the service provider. The service provider retains title to the goods, products and documentation intended for the client as a user until full payment is received.
 
-## 10. Copyrights and Rights of Use
+### 10. Copyrights and Rights of Use
 
 For the software, the client shall obtain a non-transferable, nonexclusive and perpetual permission to use copyrighted work, limited to the territory of
 the Republic of Slovenia, unless stipulated otherwise in the contract. For the Microsoft Dynamics software, the client shall obtain permissions in accordance
@@ -231,7 +231,7 @@ damages being filed. In such circumstances, full reparation shall be provided. W
 as the software user, which concern industrial property rights or other exclusive rights, may not be removed. The client may make copies for archival and data protection purposes, provided that the software does not contain an express prohibition by the licensor or a third party and that all watermarks
 concerning copyright and statements of reservation of title are transferred in their unchanged form to these copies.
 
-## 11. Liability for Defects
+### 11. Liability for Defects
 
 The service provider shall eliminate defects that are in its domain and that occur during the warranty period of six months after the production system
 becomes operational – free of charge. Liability applies only to defects that are substantial and reproducible and are reported within three working days
@@ -250,7 +250,7 @@ and service provider. If the subject of the purchase order is a modification or 
 or addition. This does not renew the liability for the main program. The client shall ensure protection of programs and data related to installed software
 at its own responsibility.
 
-## 12. Data Protection
+### 12. Data Protection
 
 For the duration of this contract or after its termination, both contracting parties undertake not to provide to third parties information on the content of
 their contractual arrangements or any internal information or data concerning the counterparty that they acquired during cooperation. If a contracting
@@ -258,7 +258,7 @@ party wants to publish the results of work, it shall obtain written consent of t
 information than just the facts on the conclusion of the contract and its basic parameters (company name and address, an approximate list of areas to
 be covered by the software, etc.).
 
-## 13. Liability for Damages
+### 13. Liability for Damages
 
 Within the framework of statutory provisions, the service provider shall be held liable for damages if the client proves that the service provider caused
 damage deliberately or through gross negligence. The service provider shall not be held liable for material damage caused due to slight negligence. The
@@ -268,12 +268,12 @@ the right to enforce them. Claims for damages that were not submitted to the ser
 gained knowledge of them shall be considered time-barred. Maximum compensation the client may demand from the service provider is limited to a
 total maximum of €50,000.
 
-## 14. Place of Contract Completion, Local Court Jurisdiction
+### 14. Place of Contract Completion, Local Court Jurisdiction
 
 Any disputes arising from this relationship shall be resolved by a court in the Republic of Slovenia, specifically in Ljubljana. Unless agreed otherwise, the
 relationship of the contracting parties is governed solely in accordance with provisions of the Slovenian law of obligations for commercial contracts, even
 when the purchase order is being fulfilled abroad. Use of the United Nations Convention on Contracts for the International Sale of Goods is excluded.
 
-## 15. Validity
+### 15. Validity
 
 These General Terms and Conditions apply from 5 January 2009 onwards.
