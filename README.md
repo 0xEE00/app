@@ -1,8 +1,8 @@
-# Adriatic Localization
+# Localization for Slovenia, Croatia and Serbia
 
-Adriatic localization is fully compliant with local laws and regulations for Slovenia, Croatia and Serbia and includes:
+Localization for Slovenia, Croatia and Serbia is fully compliant with local laws and regulations for Slovenia, Croatia and Serbia and includes:
 
-- Translation of Business Central into local languages.
+- Translation of Business Central into slovenian, croatian and serbian languages.
 
 - Compliance with local laws and regulations.
 
