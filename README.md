@@ -50,3 +50,5 @@ Slovenia|Business Solutions|+386 5 338 41 00|support@bs.si
 Croatia|Adacta|+385 01 132 12 45|support@adacta.hr
 Serbia|NPS|+381 11 319 37 48|servicedesk@nps.rs
 Escalation|GoPro|+381 11 31 93 069|support@gopro.rs
+
+New issue can be created on [webpage](https://github.com/AdriaticOrg/app/issues/new).
