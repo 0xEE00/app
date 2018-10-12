@@ -18,7 +18,7 @@ Localization for Slovenia, Croatia and Serbia is fully compliant with local laws
 
 Features are currently available as software design document draft on [sdd repository](https://github.com/AdriaticOrg/sdd).<br>
 
-User manuals for all features are available on [help](https://github.com/AdriaticOrg/help).
+User manuals for all features are available on [help](https://adriaticorg.github.io/help/).
 
 ## Service Level Agreement
 
