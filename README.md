@@ -1,8 +1,20 @@
-# Localization for Slovenia, Croatia and Serbia
+<!--- # Localization for Slovenia, Croatia and Serbia
 
 Localization for Slovenia, Croatia and Serbia is fully compliant with local laws and regulations for Slovenia, Croatia and Serbia and includes:
 
 - Translation of Business Central into slovenian, croatian and serbian languages.
+
+- Compliance with local laws and regulations.
+
+- Basic and extended functionality sets.
+
+- Country-specific reports.--->
+
+# Localization for Serbia
+
+Localization for Serbia is fully compliant with local laws and regulations for Serbia and includes:
+
+- Translation of Business Central into serbian language.
 
 - Compliance with local laws and regulations.
 
@@ -46,12 +58,19 @@ In first place our goal is to achieve hi quality of functionalities. Please chec
 
 ## Partner and Customer Contact
 
-### Support Service
+<!--- ### Support Service
 
 Country|Company ​Name|​Phone|​E-mail
 -------|------------|-----|------
 Slovenia|Business Solutions|+386 5 338 41 00|support@bs.si
 Croatia|Adacta|+385 01 132 12 45|support@adacta.hr
+Serbia|NPS|+381 11 319 37 48|servicedesk@nps.rs
+Escalation|GoPro|+381 11 31 93 069|support@gopro.rs--->
+
+### Support Service
+
+Country|Company ​Name|​Phone|​E-mail
+-------|------------|-----|------
 Serbia|NPS|+381 11 319 37 48|servicedesk@nps.rs
 Escalation|GoPro|+381 11 31 93 069|support@gopro.rs
 
