@@ -278,7 +278,7 @@ when the purchase order is being fulfilled abroad. Use of the United Nations Con
 
 These General Terms and Conditions apply from 5 January 2009 onwards.
 
-### 15. Contact Details
+### 16. Contact Details
 
 In case of disputes, questions or comments you can contact one of listed partners:
 
