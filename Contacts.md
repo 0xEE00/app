@@ -1,3 +1,1 @@
-Company ​Name|​Phone|​E-mail
-------------|-----|------
-Adacta d.o.o., Verovškova ul. 55a, 1000 Ljubljana, Slovenija, Tel: +386 1 548 38 00, info@adacta.si|Business Solutions d.o.o., Velika pot 15, 5250 Solkan Tel: +386 5 338 41 00, info@bs.si, https://www.b-s.si|NPS, Bulevar maršala Tolbuhina 44/II, 11070 Novi Beograd, Srbija, Tel: +381 11 319 37 48, info@nps.rs, www.nps.rs|GoPro D.O.O. Beograd, Prve pruge 27c, 11 080 Zemun, Beograd, Tel: +381 11 319 30 69|support@gopro.rs, https://gopro.rs
+Adacta d.o.o., Verovškova ul. 55a, 1000 Ljubljana, Slovenija, Tel: +386 1 548 38 00, info@adacta.si|Business Solutions d.o.o., Velika pot 15, 5250 Solkan Tel: +386 5 338 41 00, info@bs.si, https://www.b-s.si|NPS, Bulevar maršala Tolbuhina 44/II, 11070 Novi Beograd, Srbija, Tel: +381 11 319 37 48, info@nps.rs, www.nps.rs|GoPro D.O.O. Beograd, Prve pruge 27c, 11 080 Zemun, Beograd, Tel: +381 11 319 30 69, support@gopro.rs, https://gopro.rs
