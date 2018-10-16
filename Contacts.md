@@ -5,4 +5,4 @@ Strojarska 20|Velika pot 15|Bulevar maršala Tolbuhina 44/II|Prve pruge 27c
 Hrvaška|Slovenija|Srbija|Srbija
 T: +385 1 611 63 30|Tel: +386 5 338 41 00| Tel: +381 1131 937 48|Tel: +381 1131 930 69
 info@adacta.hr|info@bs.si|info@nps.rs|office@gopro.rs
-https://www.adacta.hr|https://www.b-s.si|www.nps.rs|https://gopro.rs
+www.adacta.hr|www.b-s.si|www.nps.rs|https://gopro.rs
