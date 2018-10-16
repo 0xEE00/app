@@ -58,6 +58,8 @@ In first place our goal is to achieve hi quality of functionalities. Please chec
 
 ## Partner and Customer Contact
 
+More information about [Contacts](Contacts.md).
+
 <!--- ### Support Service
 
 Country|Company ​Name|​Phone|​E-mail
@@ -67,7 +69,7 @@ Croatia|Adacta|+385 01 132 12 45|support@adacta.hr
 Serbia|NPS|+381 11 319 37 48|servicedesk@nps.rs
 Escalation|GoPro|+381 11 31 93 069|support@gopro.rs--->
 
-### Support Service
+## Support Service
 
 Country|Company ​Name|​Phone|​E-mail
 -------|------------|-----|------
