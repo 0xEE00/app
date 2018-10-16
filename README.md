@@ -60,6 +60,10 @@ In first place our goal is to achieve hi quality of functionalities. Please chec
 
 More information about [Contacts](Contacts.md).
 
+## Support Link
+
+Check how to create new issue or check all reported [Issues](SupportLink.md) regarding Localization.
+
 <!--- ### Support Service
 
 Country|Company ​Name|​Phone|​E-mail
@@ -68,7 +72,6 @@ Slovenia|Business Solutions|+386 5 338 41 00|support@bs.si
 Croatia|Adacta|+385 01 132 12 45|support@adacta.hr
 Serbia|NPS|+381 11 319 37 48|servicedesk@nps.rs
 Escalation|GoPro|+381 11 31 93 069|support@gopro.rs--->
-
 ## Support Service
 
 Country|Company ​Name|​Phone|​E-mail
