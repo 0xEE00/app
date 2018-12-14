@@ -68,7 +68,6 @@ Check how to create new issue or check all reported [Issues](SupportLink.md) reg
 
 Country|Company ​Name|​Phone|​E-mail
 -------|------------|-----|------
-Slovenia|Business Solutions|+386 5 338 41 00|support@bs.si
 Croatia|Adacta|+385 01 132 12 45|support@adacta.hr
 Serbia|NPS|+381 11 319 37 48|servicedesk@nps.rs
 Escalation|GoPro|+381 11 31 93 069|support@gopro.rs--->
@@ -76,8 +75,7 @@ Escalation|GoPro|+381 11 31 93 069|support@gopro.rs--->
 
 Country|Company ​Name|​Phone|​E-mail
 -------|------------|-----|------
-Serbia|NPS|+381 11 319 37 48|servicedesk@nps.rs
-Escalation|GoPro|+381 11 31 93 069|support@gopro.rs
+Serbia|Adacta|+386 1 548 39 00|Navision-INIT@adacta.si
 
 All issues related to functionality can be found on [List of issues](https://github.com/AdriaticOrg/app/issues).<br> 
 [New issue](https://github.com/AdriaticOrg/app/issues/new) can be created by entering details for issue.
