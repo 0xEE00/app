@@ -1,9 +1,5 @@
 # General Terms and Conditions
 
-## Adacta d.o.o., Ljubljana
-© Adacta d.o.o., Ljubljana
-General Terms and Conditions of Adacta d.o.o., Ljubljana
-
 ### 1. Scope
 
 The following General Terms and Conditions apply to all deliveries and services rendered by ADACTA programska oprema d.o.o. as the service provider.
@@ -282,11 +278,8 @@ These General Terms and Conditions apply from 5 January 2009 onwards.
 
 In case of disputes, questions or comments you can contact one of listed partners:
 
-Adacta d.o.o.|Business Solutions d.o.o.|​NPS d.o.o.|​GoPro d.o.o. Beograd
+Adacta d.o.o.|Business Solutions d.o.o.|​NPS d.o.o.|​GoPro d.o.o.
 -------------|-------------------------|----------|--------------------
-Strojarska 20|Velika pot 15|Bulevar maršala Tolbuhina 44/II|Prve pruge 27c
-10000 Zagreb|5250 Solkan|11070 Novi Beograd|11080 Zemun
-Hrvaška|Slovenija|Srbija|Srbija
-Tel: +385 1611 6330|Tel: +386 5338 4100|Tel: +381 1131 93748|Tel: +381 1131 93069
-info@adacta.hr|info@bs.si|info@nps.rs|office@gopro.rs
-www.adacta.hr|www.b-s.si|www.nps.rs|https://gopro.rs
+Tel: +381 11 303 22 60|Tel: +386 5338 4100|Tel: +381 1131 93748|Tel: +381 1131 93069
+info@adacta.rs|info@bs.si|info@nps.rs|office@gopro.rs
+www.adacta.rs|www.b-s.si|www.nps.rs|https://gopro.rs
