@@ -73,9 +73,11 @@ Serbia|NPS|+381 11 319 37 48|servicedesk@nps.rs
 Escalation|GoPro|+381 11 31 93 069|support@gopro.rs--->
 ## Support Service
 
-Country|Company ​Name|​Phone|​E-mail
--------|------------|-----|------
-Serbia|Adacta|+386 1 548 39 00|Navision-INIT@adacta.si
+Adacta d.o.o.|Business Solutions d.o.o.|​NPS d.o.o.|​GoPro d.o.o.
+-------------|-------------------------|----------|--------------------
+Tel: +381 11 303 22 60|Tel: +386 5338 4100|Tel: +381 1131 93748|Tel: +381 1131 93069
+info@adacta.rs|info@bs.si|info@nps.rs|office@gopro.rs
+www.adacta.rs|www.b-s.si|www.nps.rs|https://gopro.rs
 
 All issues related to functionality can be found on [List of issues](https://github.com/AdriaticOrg/app/issues).<br> 
 [New issue](https://github.com/AdriaticOrg/app/issues/new) can be created by entering details for issue.
