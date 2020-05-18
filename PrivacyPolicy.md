@@ -286,7 +286,7 @@ www.adacta.rs|www.b-s.si|www.nps.rs|https://gopro.rs
 
 ### 17. DPO Contact
 
-DPO contact details:
+DPO contact details for customer data usage enquiries:
 
 |DPO Contact|
 |-----------|
